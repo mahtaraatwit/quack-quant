@@ -1,6 +1,6 @@
 # quack-quant
 list of resources i find for quant
-
+https://www.reddit.com/r/cscareerquestionsEU/comments/10ctq1l/just_landed_a_quant_developer_role_wondering_what/
 
 I have been studying C++ in depth, using the following resources:
 
@@ -31,3 +31,12 @@ Designing Data-Intensive Applications
 To supplement my learning, I have also been using Leetcode to practice and improve my coding skills.
 
 I also pirated all these book except beej’s guid, so please don’t tell anyone
+
+----------------
+
+ FIX Protocol
+ -------------
+ 
+ https://www.reddit.com/r/quant/comments/vr5yb2/quant_projects_for_beginners/
+ 
+ https://www.amazon.com/Heard-Street-Quantitative-Questions-Interviews/dp/0970055277
