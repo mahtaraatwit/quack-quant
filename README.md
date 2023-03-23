@@ -1,2 +1,33 @@
 # quack-quant
 list of resources i find for quant
+
+
+I have been studying C++ in depth, using the following resources:
+
+C++ Design Patterns and Derivatives Pricing
+
+C++ Concurrency in Action
+
+C++ Move Semantics
+
+C++ High Performance
+
+Data Structures and Algorithms in C++
+
+This emphasis on C++ is due to the fact that many companies in the field of low latency trading tend to ask difficult C++ questions in their interview process.
+
+In addition to C++, I have also been studying finance, specifically:
+
+Energy Trading and Risk Management
+
+Successful Algorithmic Trading
+
+Lastly, I have been learning about socket programming and networks, using these resources:
+
+Beej's Guide to Network Programming
+
+Designing Data-Intensive Applications
+
+To supplement my learning, I have also been using Leetcode to practice and improve my coding skills.
+
+I also pirated all these book except beej’s guid, so please don’t tell anyone
