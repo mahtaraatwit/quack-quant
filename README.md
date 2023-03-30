@@ -1,5 +1,8 @@
 # quack-quant
 list of resources i find for quant
+
+https://www.youtube.com/@TradeOptionsWithMe/videos
+
 https://www.reddit.com/r/cscareerquestionsEU/comments/10ctq1l/just_landed_a_quant_developer_role_wondering_what/
 
 I have been studying C++ in depth, using the following resources:
