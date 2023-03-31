@@ -45,3 +45,17 @@ I also pirated all these book except beej’s guid, so please don’t tell anyon
  https://www.reddit.com/r/quant/comments/vr5yb2/quant_projects_for_beginners/
  
  https://www.amazon.com/Heard-Street-Quantitative-Questions-Interviews/dp/0970055277
+ 
+ 
+ 
+ ## raytheon resume structure 
+ 
+ Active Secret Security Clearance
+
+- Experience with legacy C++, Fortran, IBM Clearcase
+- Maintenance and User Support on a Data Reduction tool including development and implementation of efficiency upgrades, additional functionality, and bugfixes
+- Conducted dialogue with users to analyze intended requirements of users and convert into actionable code
+- Converted legacy Fortran to C++ in order to provide new functionality
+- Implemented a routine to prevent GUIs from being placed offscreen due to corrupted registry values
+- Developed multiple builds with scrubbed classified information for release to foreign partners
+- Merge two divergent branches of the product into a single production build.
