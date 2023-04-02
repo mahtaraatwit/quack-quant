@@ -41,6 +41,7 @@ I also pirated all these book except beej’s guid, so please don’t tell anyon
 
  FIX Protocol
  -------------
+ https://www.youtube.com/watch?v=tOk2o8vfA0E&list=PLOZ2xuwM8rZSWfYUqOUfofr695KseM8hW
  
  https://www.reddit.com/r/quant/comments/vr5yb2/quant_projects_for_beginners/
  
