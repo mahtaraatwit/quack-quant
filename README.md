@@ -60,3 +60,8 @@ I also pirated all these book except beej’s guid, so please don’t tell anyon
 - Implemented a routine to prevent GUIs from being placed offscreen due to corrupted registry values
 - Developed multiple builds with scrubbed classified information for release to foreign partners
 - Merge two divergent branches of the product into a single production build.
+
+
+## studying for interview questions / system design shit
+
+![image](https://user-images.githubusercontent.com/66905824/229509876-ad9cc312-ec8a-49cd-a389-9b0752767686.png)
