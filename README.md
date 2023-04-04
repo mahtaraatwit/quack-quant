@@ -71,5 +71,6 @@ I also pirated all these book except beej’s guid, so please don’t tell anyon
 <br />
 <br />
 https://usaco.guide/general/expected-knowledge?lang=cpp
+<br />
 https://cp-algorithms.com/index.html#navigation
 https://www.youtube.com/watch?v=ucfsFmjScpQ&list=PLB7ZlVMcmjIDsjPQfjxT-_ClgEtr-udS2
