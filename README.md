@@ -65,6 +65,9 @@ I also pirated all these book except beej’s guid, so please don’t tell anyon
 ## studying for interview questions / system design shit
 
 ![image](https://user-images.githubusercontent.com/66905824/229509876-ad9cc312-ec8a-49cd-a389-9b0752767686.png)
+
+
+
 https://usaco.guide/general/expected-knowledge?lang=cpp
 https://cp-algorithms.com/index.html#navigation
 https://www.youtube.com/watch?v=ucfsFmjScpQ&list=PLB7ZlVMcmjIDsjPQfjxT-_ClgEtr-udS2
