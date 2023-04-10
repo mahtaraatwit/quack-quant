@@ -94,3 +94,7 @@ NeetCode.io (150 LC questions)
 Grokking the system design interview, grokking the networking interview - Educative (free 1 week trial, finished both in that time)
 
 Bits and bytes of networking by Google, 'OS, concurrency, virtualisation' - Coursera (free 1 week trial, finished in that time)
+
+
+
+https://interviewguide.dev/  -> useful to prepare for interviews
