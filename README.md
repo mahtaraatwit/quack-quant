@@ -77,3 +77,20 @@ https://cp-algorithms.com/index.html#navigation
 https://www.youtube.com/watch?v=ucfsFmjScpQ&list=PLB7ZlVMcmjIDsjPQfjxT-_ClgEtr-udS2
 <br />
 https://www.reddit.com/r/csMajors/comments/zwg5oi/what_topics_to_learn_for_hft_interviews/
+
+
+OS, networking, concurrency, and system design.
+
+Resources I went through for those interested:
+
+NeetCode.io (150 LC questions)
+
+"Cracking the Coding Interview" (book)
+
+"System Design Interview" (book)
+
+"Developing high-frequency trading systems" (book, lower value, more out of interest)
+
+Grokking the system design interview, grokking the networking interview - Educative (free 1 week trial, finished both in that time)
+
+Bits and bytes of networking by Google, 'OS, concurrency, virtualisation' - Coursera (free 1 week trial, finished in that time)
