@@ -98,3 +98,4 @@ Bits and bytes of networking by Google, 'OS, concurrency, virtualisation' - Cour
 
 
 https://interviewguide.dev/  -> useful to prepare for interviews
+https://runestone.academy/ns/books/published/pythonds/Introduction/DiscussionQuestions.html
