@@ -100,3 +100,6 @@ Bits and bytes of networking by Google, 'OS, concurrency, virtualisation' - Cour
 https://interviewguide.dev/  -> useful to prepare for interviews
 https://runestone.academy/ns/books/published/pythonds/Introduction/DiscussionQuestions.html
 ![image](https://user-images.githubusercontent.com/66905824/232892424-4c9d6272-64e2-499b-b7e1-e905404a8ae5.png)
+
+
+https://mcoding.io/about-james-murphy
