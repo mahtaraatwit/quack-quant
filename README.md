@@ -103,3 +103,5 @@ https://runestone.academy/ns/books/published/pythonds/Introduction/DiscussionQue
 
 
 https://mcoding.io/about-james-murphy
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main
+https://github.com/mCodingLLC/VideosSampleCode
