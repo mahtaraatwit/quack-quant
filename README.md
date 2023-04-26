@@ -7,6 +7,10 @@ https://www.youtube.com/@TradeOptionsWithMe/videos
 
 https://www.reddit.com/r/cscareerquestionsEU/comments/10ctq1l/just_landed_a_quant_developer_role_wondering_what/
 
+
+https://www.reddit.com/r/quant/comments/12z0mbq/quant_recruiter_ama/
+
+
 I have been studying C++ in depth, using the following resources:
 
 C++ Design Patterns and Derivatives Pricing
