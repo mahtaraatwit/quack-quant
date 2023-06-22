@@ -117,3 +117,4 @@ https://www.youtube.com/watch?v=b1e4t2k2KJY
 https://cses.fi/book/book.pdf
 https://www.youtube.com/@AaronHe
 https://usaco.guide/problems/
+https://www.youtube.com/watch?v=pOThNItNuqE
