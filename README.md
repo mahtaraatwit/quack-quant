@@ -118,3 +118,10 @@ https://cses.fi/book/book.pdf
 https://www.youtube.com/@AaronHe
 https://usaco.guide/problems/
 https://www.youtube.com/watch?v=pOThNItNuqE
+
+potential coding mentor maybe:
+uh that arab dude
+that facebook woman
+that one woman youtuber
+![image](https://github.com/mahtaraatwit/quack-quant/assets/66905824/a13a7d04-beb5-485c-b488-20d420cc150d)
+
