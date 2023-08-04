@@ -125,3 +125,6 @@ that facebook woman
 that one woman youtuber
 ![image](https://github.com/mahtaraatwit/quack-quant/assets/66905824/a13a7d04-beb5-485c-b488-20d420cc150d)
 
+
+C resources:
+https://www.youtube.com/watch?v=wCWE-x7TSI4
