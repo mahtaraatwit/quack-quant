@@ -1,4 +1,4 @@
-# quack-quant
+https://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/# quack-quant
 list of resources i find for quant
 
 https://dotnettutorials.net/lesson/how-to-study-candlestick/
@@ -128,3 +128,4 @@ that one woman youtuber
 
 C resources:
 https://www.youtube.com/watch?v=wCWE-x7TSI4
+https://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/
