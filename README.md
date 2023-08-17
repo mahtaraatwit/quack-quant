@@ -129,3 +129,7 @@ that one woman youtuber
 C resources:
 https://www.youtube.com/watch?v=wCWE-x7TSI4
 https://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/
+
+
+Other job ideas for CS degree:
+https://www.reddit.com/r/csMajors/comments/15pp1vj/comment/jvysmlh/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1&context=3 
