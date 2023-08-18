@@ -137,3 +137,4 @@ https://www.youtube.com/watch?v=UU-v3NBn1yQ - some rand om song
 https://aosabook.org/en/
 https://engineering.facile.it/blog/eng/how-php-7-tdd-helped-me-sleep-better/
 https://www.youtube.com/watch?v=g1SQBKCsqXM&list=OLAK5uy_mNULSDo_kHBU5pae5JqUwawOAgxeYhWY4 - fire song
+https://www.reddit.com/r/passive_income/comments/15u9etg/passive_income_just_crossed_19000_monthly_with/
