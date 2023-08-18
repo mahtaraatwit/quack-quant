@@ -135,3 +135,4 @@ Other job ideas for CS degree:
 https://www.reddit.com/r/csMajors/comments/15pp1vj/comment/jvysmlh/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1&context=3 
 https://www.youtube.com/watch?v=UU-v3NBn1yQ - some rand om song
 https://aosabook.org/en/
+https://engineering.facile.it/blog/eng/how-php-7-tdd-helped-me-sleep-better/
