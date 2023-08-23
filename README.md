@@ -140,3 +140,4 @@ https://www.youtube.com/watch?v=g1SQBKCsqXM&list=OLAK5uy_mNULSDo_kHBU5pae5JqUwaw
 https://www.reddit.com/r/passive_income/comments/15u9etg/passive_income_just_crossed_19000_monthly_with/
 https://www.reddit.com/r/ExperiencedDevs/comments/15yk70s/mid_to_senior_level_interview_prep_where_to_begin/
 https://dropbox.github.io/dbx-career-framework/ic1_software_engineer.html
+https://mikehadlow.com/
