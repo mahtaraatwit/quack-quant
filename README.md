@@ -141,3 +141,4 @@ https://www.reddit.com/r/passive_income/comments/15u9etg/passive_income_just_cro
 https://www.reddit.com/r/ExperiencedDevs/comments/15yk70s/mid_to_senior_level_interview_prep_where_to_begin/
 https://dropbox.github.io/dbx-career-framework/ic1_software_engineer.html
 https://mikehadlow.com/
+https://www.reddit.com/r/quant/comments/13vpkhu/resources_for_quant_interview_prep_complete_guide/
