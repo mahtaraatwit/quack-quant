@@ -142,3 +142,4 @@ https://www.reddit.com/r/ExperiencedDevs/comments/15yk70s/mid_to_senior_level_in
 https://dropbox.github.io/dbx-career-framework/ic1_software_engineer.html
 https://mikehadlow.com/
 https://www.reddit.com/r/quant/comments/13vpkhu/resources_for_quant_interview_prep_complete_guide/
+https://usermanual.wiki/Document/Practical20Guide20To20Quantitative20Finance20Interview.604244935.pdf
