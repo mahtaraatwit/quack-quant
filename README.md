@@ -154,3 +154,6 @@ https://www.tradermath.org/brainteasers
 https://drillyourskill.com/multiplication/
 
 https://www.puzzledquant.com/
+https://interviewnoodle.com/amazon-sde-interview-experience-on-campus-e8444ee791b
+https://byjus.com/gate/how-to-prepare-for-gate-cse/
+https://practicepaper.in/gate-cse/gate-cse-mock-test-series
