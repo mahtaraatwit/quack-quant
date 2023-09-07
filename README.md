@@ -143,3 +143,14 @@ https://dropbox.github.io/dbx-career-framework/ic1_software_engineer.html
 https://mikehadlow.com/
 https://www.reddit.com/r/quant/comments/13vpkhu/resources_for_quant_interview_prep_complete_guide/
 https://usermanual.wiki/Document/Practical20Guide20To20Quantitative20Finance20Interview.604244935.pdf
+
+Start prepping your numerical skills and practice brainteasers as soon as possible. Check https://www.tradermath.org/ for both of these.
+
+To get a feel for the business, read stuff like:
+
+Black Swan - Taleb, Antifragile - Taleb, The Complete Guide to Capital Markets for Quantitative Professionals, Financial Engineering: The Evolution of a Profession, My Life as a Quant: Reflections on Physics and Finance, The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It, How I Became a Quant: Insights from 25 of Wall Street's Elite, What do quants do ? A guide by Mark Joshi
+https://www.tradermath.org/brainteasers
+
+https://drillyourskill.com/multiplication/
+
+https://www.puzzledquant.com/
