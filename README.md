@@ -158,3 +158,5 @@ https://interviewnoodle.com/amazon-sde-interview-experience-on-campus-e8444ee791
 https://byjus.com/gate/how-to-prepare-for-gate-cse/
 https://practicepaper.in/gate-cse/gate-cse-mock-test-series
 https://app.codesignal.com/interview-practice
+https://www.youtube.com/watch?v=Hdr64lKQ3e4
+https://www.youtube.com/watch?v=EM8IgIIiOdY
