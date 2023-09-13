@@ -160,3 +160,4 @@ https://practicepaper.in/gate-cse/gate-cse-mock-test-series
 https://app.codesignal.com/interview-practice
 https://www.youtube.com/watch?v=Hdr64lKQ3e4
 https://www.youtube.com/watch?v=EM8IgIIiOdY
+https://www.jjj.de/fxt/fxtbook.pdf?_sm_nck=1
