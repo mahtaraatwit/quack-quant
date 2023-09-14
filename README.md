@@ -161,3 +161,5 @@ https://app.codesignal.com/interview-practice
 https://www.youtube.com/watch?v=Hdr64lKQ3e4
 https://www.youtube.com/watch?v=EM8IgIIiOdY
 https://www.jjj.de/fxt/fxtbook.pdf?_sm_nck=1
+https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html
+http://jeffe.cs.illinois.edu/teaching/algorithms/
