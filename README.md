@@ -165,3 +165,8 @@ https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html
 http://jeffe.cs.illinois.edu/teaching/algorithms/
 https://www.youtube.com/watch?v=DEUTels2WdM
 https://www.chingu.io/howItWorks
+For behavioral interviews, I listened to Jackson Gabbard.
+
+https://youtu.be/PJKYqLP6MRE?si=UM43XtvYT1lQ_x8y
+
+For technical stuff – Syntax.fm, JS Party, and Kent C. Dodds.
