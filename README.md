@@ -170,3 +170,4 @@ For behavioral interviews, I listened to Jackson Gabbard.
 https://youtu.be/PJKYqLP6MRE?si=UM43XtvYT1lQ_x8y
 
 For technical stuff – Syntax.fm, JS Party, and Kent C. Dodds.
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
