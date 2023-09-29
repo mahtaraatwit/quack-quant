@@ -1,4 +1,4 @@
-https://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/# quack-quant
+https://www.youtube.com/@JomaClass/videoshttps://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/# quack-quant
 list of resources i find for quant
 
 https://dotnettutorials.net/lesson/how-to-study-candlestick/
@@ -174,3 +174,5 @@ https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 https://digitalstack.ro/software-engineering-career-program/
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+https://www.youtube.com/@JomaClass/videos
+https://www.youtube.com/watch?v=1bCl3x_JS-w
