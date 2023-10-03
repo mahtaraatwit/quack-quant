@@ -1,4 +1,4 @@
-https://www.youtube.com/@JomaClass/videoshttps://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/# quack-quant
+![image](https://github.com/mahtaraatwit/quack-quant/assets/66905824/543af6d6-af37-438f-bcd3-2b44dbe09d6b)https://www.youtube.com/@JomaClass/videoshttps://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/# quack-quant
 list of resources i find for quant
 
 https://dotnettutorials.net/lesson/how-to-study-candlestick/
@@ -176,3 +176,5 @@ https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-prob
 https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 https://www.youtube.com/@JomaClass/videos
 https://www.youtube.com/watch?v=1bCl3x_JS-w
+https://www.youtube.com/@JomaClass/videos
+https://www.youtube.com/@ThinkXAcademy/playlists
