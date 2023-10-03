@@ -1,4 +1,6 @@
-![image](https://github.com/mahtaraatwit/quack-quant/assets/66905824/543af6d6-af37-438f-bcd3-2b44dbe09d6b)https://www.youtube.com/@JomaClass/videoshttps://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/# quack-quant
+
+
+https://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/# quack-quant
 list of resources i find for quant
 
 https://dotnettutorials.net/lesson/how-to-study-candlestick/
