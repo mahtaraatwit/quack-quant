@@ -181,3 +181,5 @@ https://www.youtube.com/watch?v=1bCl3x_JS-w
 https://www.youtube.com/@JomaClass/videos
 https://www.youtube.com/@ThinkXAcademy/playlists
 https://mindyourdecisions.com/blog/
+https://www.karanpratapsingh.com/courses/system-design/ip
+https://excalidraw.com/#json=Yh3aYY_q0pgLOUbax46Lu,aTvut5b95O5KWehUkHsrIQ
