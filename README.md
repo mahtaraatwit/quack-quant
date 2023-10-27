@@ -185,3 +185,4 @@ https://www.karanpratapsingh.com/courses/system-design/ip
 https://excalidraw.com/#json=Yh3aYY_q0pgLOUbax46Lu,aTvut5b95O5KWehUkHsrIQ
 https://www.reddit.com/r/csMajors/comments/17hiv7b/math_for_computer_science_roadmap_everything_you/
 https://navigolearn.com/roadmap/math-for-computer-science-33
+https://www.youtube.com/watch?v=V-VZCtzYybg
