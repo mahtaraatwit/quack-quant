@@ -187,3 +187,4 @@ https://www.reddit.com/r/csMajors/comments/17hiv7b/math_for_computer_science_roa
 https://navigolearn.com/roadmap/math-for-computer-science-33
 https://www.youtube.com/watch?v=V-VZCtzYybg
 https://www.clientside.dev/auth/signup?next=/explore
+https://www.youtube.com/@karaniitgn0908/videos
