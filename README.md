@@ -115,7 +115,9 @@ https://github.com/mCodingLLC/VideosSampleCode
 ![image](https://user-images.githubusercontent.com/66905824/233413385-85fedf46-2205-457b-a96b-55a3221e2a2c.png)
 
 https://www.programiz.com/dsa/algorithm
+<br />
 https://www.youtube.com/watch?v=b1e4t2k2KJY
+<br />
 https://cses.fi/book/book.pdf
 https://www.youtube.com/@AaronHe
 https://usaco.guide/problems/
@@ -156,37 +158,66 @@ https://www.tradermath.org/brainteasers
 https://drillyourskill.com/multiplication/
 
 https://www.puzzledquant.com/
+<br />
 https://interviewnoodle.com/amazon-sde-interview-experience-on-campus-e8444ee791b
+<br />
 https://byjus.com/gate/how-to-prepare-for-gate-cse/
+<br />
 https://practicepaper.in/gate-cse/gate-cse-mock-test-series
+<br />
 https://app.codesignal.com/interview-practice
+<br />
 https://www.youtube.com/watch?v=Hdr64lKQ3e4
+<br />
 https://www.youtube.com/watch?v=EM8IgIIiOdY
+<br />
 https://www.jjj.de/fxt/fxtbook.pdf?_sm_nck=1
+<br />
 https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html
+<br />
 http://jeffe.cs.illinois.edu/teaching/algorithms/
+<br />
 https://www.youtube.com/watch?v=DEUTels2WdM
+<br />
 https://www.chingu.io/howItWorks
+<br />
 For behavioral interviews, I listened to Jackson Gabbard.
-
+<br />
 https://youtu.be/PJKYqLP6MRE?si=UM43XtvYT1lQ_x8y
+<br />
 
-For technical stuff – Syntax.fm, JS Party, and Kent C. Dodds.
+For technical stuff – Syntax.fm, JS Party, and Kent C. Dodds. 
+<br />
 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+<br />
 https://digitalstack.ro/software-engineering-career-program/
+<br />
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+<br />
 https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+<br />
 https://www.youtube.com/@JomaClass/videos
+<br />
 https://www.youtube.com/watch?v=1bCl3x_JS-w
+<br />
 https://www.youtube.com/@JomaClass/videos
+<br />
 https://www.youtube.com/@ThinkXAcademy/playlists
+<br />
 https://mindyourdecisions.com/blog/
+<br />
 https://www.karanpratapsingh.com/courses/system-design/ip
+<br />
 https://excalidraw.com/#json=Yh3aYY_q0pgLOUbax46Lu,aTvut5b95O5KWehUkHsrIQ
+<br />
 https://www.reddit.com/r/csMajors/comments/17hiv7b/math_for_computer_science_roadmap_everything_you/
+<br />
 https://navigolearn.com/roadmap/math-for-computer-science-33
+<br />
 https://www.youtube.com/watch?v=V-VZCtzYybg
+<br />
 https://www.clientside.dev/auth/signup?next=/explore
+<br />
 https://www.youtube.com/@karaniitgn0908/videos
 
 
