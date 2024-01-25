@@ -225,3 +225,5 @@ https://www.youtube.com/@karaniitgn0908/videos
 https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://inventwithpython.com/recursion/chapter1.html
 # https://www.youtube.com/watch?v=ftFptCxm5ZU
+# https://www.youtube.com/watch?v=_1c1UrAWXwU
+# https://www.youtube.com/watch?v=NqebYKB5eYk&list=PLV3oHJg9b1NTamk5mJISbbJtld4HE7HE8
