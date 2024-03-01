@@ -231,3 +231,4 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://www.youtube.com/@fikkyd/videos
 # https://algs4.cs.princeton.edu/home/
 # https://ln.hixie.ch/?start=1674863881&order=-1&count=5
+# https://sites.lsa.umich.edu/hderksen/wp-content/uploads/sites/614/2018/05/ProblemSolving-1.pdf
