@@ -240,3 +240,4 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://seanprashad.com/leetcode-patterns/
 # https://www.youtube.com/watch?v=w_ebhH2swVk
 # https://www.reddit.com/r/leetcode/comments/1b8gsq7/finally_made_into_to_meta_e4/
+# https://www.youtube.com/@MasteringProgramming
