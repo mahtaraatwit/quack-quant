@@ -234,3 +234,9 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://sites.lsa.umich.edu/hderksen/wp-content/uploads/sites/614/2018/05/ProblemSolving-1.pdf
 # https://www.reddit.com/r/cscareerquestions/comments/1aq48ck/comment/kqams1c/
 # https://www.micc.unifi.it/bertini/download/labtecinf/C%2B%2B%20A%20Beginner's%20Guide%202nd%20Edition%20(2003).pdf
+# https://systemdesignschool.io/problems/leetcode/solution
+# https://interviewing.io/questions/design-leetcode
+# https://www.preplaced.in/blog/flipkart-ui-engineer-55
+# https://seanprashad.com/leetcode-patterns/
+# https://www.youtube.com/watch?v=w_ebhH2swVk
+# https://www.reddit.com/r/leetcode/comments/1b8gsq7/finally_made_into_to_meta_e4/
