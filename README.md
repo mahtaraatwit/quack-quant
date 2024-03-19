@@ -242,3 +242,4 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://www.reddit.com/r/leetcode/comments/1b8gsq7/finally_made_into_to_meta_e4/
 # https://www.youtube.com/@MasteringProgramming
 # https://www.youtube.com/@CodingInterviewPrep/videos
+# https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
