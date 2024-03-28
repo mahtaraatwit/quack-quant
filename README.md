@@ -243,3 +243,5 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://www.youtube.com/@MasteringProgramming
 # https://www.youtube.com/@CodingInterviewPrep/videos
 # https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+# https://jogchat.com/
+# https://jogchat.com/leetcode_companies/
