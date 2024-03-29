@@ -248,3 +248,4 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://liyao13.wordpress.com/category/algorithmdatastructure/
 # https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 # https://www.artima.com/articles/the-lazy-builder8217s-complexity-lesson
+# https://www.youtube.com/@BoQianTheProgrammer
