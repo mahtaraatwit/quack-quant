@@ -249,3 +249,5 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 # https://www.artima.com/articles/the-lazy-builder8217s-complexity-lesson
 # https://www.youtube.com/@BoQianTheProgrammer
+# https://www.youtube.com/watch?v=9p_s457RSQE&list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH&index=2
+# https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=2
