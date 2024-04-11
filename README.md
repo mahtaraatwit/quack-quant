@@ -253,3 +253,4 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 # https://www.youtube.com/watch?v=9p_s457RSQE&list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH&index=2
 # https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=2
 # 2799. Count Complete Subarrays in an Array
+https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition#:~:text=How%20does%20the%20Shazam%20algorithm,each%20other%20within%20a%20song.
