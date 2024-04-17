@@ -256,3 +256,4 @@ https://www.reddit.com/r/leetcode/comments/18bu7je/dp_extravaganza/
 https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition#:~:text=How%20does%20the%20Shazam%20algorithm,each%20other%20within%20a%20song.
 # https://www.youtube.com/@simondev758/videos
 # https://www.youtube.com/@jeffhsipepi/videos
+# https://www.reddit.com/r/csMajors/comments/1c4b7i6/advice_from_a_cto_to_building_your_side_project/
