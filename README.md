@@ -1,4 +1,4 @@
-
+Given an array of numbers N and an integer k, your task is to split N into k partitions such that the maximum sum of any partition is minimized. Return this sum.
 
 https://www.reddit.com/r/ExperiencedDevs/comments/15qtgzq/books_or_resources_that_explain_why_engineers/# quack-quant
 list of resources i find for quant
