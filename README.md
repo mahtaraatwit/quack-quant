@@ -1,6 +1,6 @@
 
 
-
+https://os.phil-opp.com/
 https://google.github.io/comprehensive-rust/exercises/concurrency/dining-philosophers.html
 
 Given an array of numbers N and an integer k, your task is to split N into k partitions such that the maximum sum of any partition is minimized. Return this sum.
